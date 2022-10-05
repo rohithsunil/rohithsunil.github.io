@@ -1,3 +1,9 @@
+/**
+* Template Name: MyResume - v4.9.0
+* Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
 
 /*--------------------------------------------------------------
 # General
@@ -8,12 +14,12 @@ body {
 }
 
 a {
-  color: #060D5F;
+  color: #46374C;
   text-decoration: none;
 }
 
 a:hover {
-  color: #067ded;
+  color: #46374C;
   text-decoration: none;
 }
 
@@ -36,7 +42,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #060D5F;
+  background: #46374C;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -78,7 +84,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #060D5F;
+  border: 6px solid #46374C;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -215,7 +221,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #fff;
-  background: #060D5F;
+  background: #5E4966;
 }
 
 .nav-menu a:hover span,
@@ -269,7 +275,7 @@ h6 {
 
 .mobile-nav-active .mobile-nav-toggle {
   color: #fff;
-  background-color: #060D5F;
+  background-color: #46374C;
 }
 
 /*--------------------------------------------------------------
@@ -316,7 +322,7 @@ h6 {
 }
 
 #hero p span {
-  color: #901dc9;
+  color: #795F84;
   letter-spacing: 1px;
 }
 
@@ -334,7 +340,7 @@ h6 {
 }
 
 #hero .social-links a:hover {
-  color: #060D5F;
+  color: #46374C;
 }
 
 @media (max-width: 992px) {
@@ -394,7 +400,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #060D5F;
+  background: #46374C;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -409,7 +415,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #060D5F;
+  color: #46374C;
 }
 
 .about .content ul {
@@ -430,7 +436,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #060D5F;
+  color: #46374C;
   line-height: 0;
 }
 
@@ -456,7 +462,7 @@ section {
   left: 50%;
   transform: translateX(-50%);
   font-size: 24px;
-  background: #060D5F;
+  background: #46374C;
   color: #fff;
   border-radius: 50px;
   display: inline-flex;
@@ -513,7 +519,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #060D5F;
+  background-color: #46374C;
 }
 
 /*--------------------------------------------------------------
@@ -530,7 +536,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #060D5F;
+  border-left: 2px solid #46374C;
   position: relative;
 }
 
@@ -540,7 +546,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #060D5F;
+  color: #46374C;
   margin-bottom: 10px;
 }
 
@@ -574,7 +580,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #060D5F;
+  border: 2px solid #46374C;
 }
 
 /*--------------------------------------------------------------
@@ -609,7 +615,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #060D5F;
+  color: #46374C;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -755,11 +761,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #060D5F;
+  border: 1px solid #46374C;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #060D5F;
+  background-color: #46374C;
 }
 
 .portfolio-details .portfolio-info {
@@ -1002,11 +1008,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #060D5F;
+  border: 1px solid #46374C;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #060D5F;
+  background-color: #46374C;
 }
 
 @media (min-width: 992px) {
@@ -1025,11 +1031,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #060D5F;
+  color: #ffffff;
   float: left;
   width: 44px;
   height: 44px;
-  background: #eef7ff;
+  background: #5E4966;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1060,7 +1066,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #060D5F;
+  background: #46374C;
   color: #fff;
 }
 
@@ -1131,7 +1137,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #060D5F;
+  background: #46374C;
   border: 0;
   padding: 10px 35px;
   color: #fff;
@@ -1140,7 +1146,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #0678e3;
+  background: #5E4966;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1197,7 +1203,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #060D5F;
+  background: #46374C;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1210,7 +1216,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #0678e3;
+  background: #5E4966;
   color: #fff;
   text-decoration: none;
 }
